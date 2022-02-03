@@ -10,10 +10,6 @@ This Will be used by runners that want to be matched with tranners
 * HTML
 * CSS
 
-
-## Website
-https://lernantino.github.io/run-buddy/
-
 ## Contribution
 Made with ❤️ by Cameron Charlesworthgit
 
@@ -22,5 +18,5 @@ If you have any questions please reach out to cdcharlesworth@gmail.com
 
 ## Link
 GitHub Repo: https://github.com/Charlie1099/run-buddy
-
+Deployed at:  https://charlie1099.github.io/runn-buddy/
 ### ©️2019 Run Buddy, Inc
